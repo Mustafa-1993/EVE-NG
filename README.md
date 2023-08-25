@@ -8,7 +8,8 @@
 
 
 #### Instructions : 
-1. Open Download.txt file to download the rar file from my google drive 
+1. Open Download.txt file to download the rar file from my google drive
+   - https://drive.google.com/drive/folders/14KHmDJvKycaheBOxyiUGITxyGnESG7EV?usp=sharing
 2. Unzip the file 
 3. Download the vmware player workstation from
    - https://customerconnect.vmware.com/en/downloads/info/slug/desktop_end_user_computing/vmware_workstation_player/17_0
