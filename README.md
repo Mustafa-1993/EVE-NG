@@ -32,7 +32,7 @@
     - https://drive.google.com/file/d/1avmi8SyQLKwTDIDciQRpAS1GxB6eoYY-/view
 
 11. Dopwnload and install Putty (depend on your system x86 or 64) to enter SSH to device :
-   - https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+    - https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
 12. create your own lab and have fun
 
