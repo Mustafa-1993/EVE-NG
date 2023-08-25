@@ -3,6 +3,6 @@
 #### Web username : admin
 #### Web password : eve
 
-#### SSH/SFTP username : roor
+#### SSH/SFTP username : root
 #### SSH/SFTP password : eve
 
