@@ -6,3 +6,4 @@
 #### SSH/SFTP username : root
 #### SSH/SFTP password : eve
 
+Open Download.txt file to download the OVA from my google drive 
