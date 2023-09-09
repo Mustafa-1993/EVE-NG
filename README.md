@@ -35,14 +35,48 @@
     - https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
 12. create your own lab and have fun
+# YAML
 
-    ## Always open files in a New Tab in VS Code
+- **Y**et **A**nother **M**arkup **L**anguage
+- YAML it is very easy for humans to understand, read and write when compared to other data formats like XML and JSON.
+- Extension is “yaml” or “yml”
+- Use this website to validate the yaml code —> https://www.yamllint.com/
 
-1. Press `Ctrl` + `Shift` + `P`
-2. Type **user settings** and select **Preferences: Open User Settings**
-3. Type **workbench enable preview** and uncheck the checkbox of the **Workbench > Editor: Enable Preview** setting
-4. Once you uncheck the checkbox, you will always open files in a new tab with a single left-click
-    
+<aside>
+💡 The indention spaces number is up to you (the standard add 2 spaces) but must be identical
+
+</aside>
+
+<aside>
+💡 Every YAML file **optionally (May or May not)** starts with `---`  and ends with `...`    (Focus on space after each one of them)
+
+</aside>
+
+## key-value
+
+- YAML uses simple **key-value** pairs to represent the data (Just like dictionary) , There should be space between`:` and value.
+
+```yaml
+--- # Optional YAML start syntax 
+
+james:              **# Dict in Dict** 
+		name: james john 
+		rollNo: 34 
+		div: B 
+		sex: male
+
+Mustafa: 22.55
+
+Rami: true  # Boolean
+
+... # Optional YAML end syntax
+```
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f7830354-6125-4e3f-8ae7-14a8ef04f9c6/7a4f445f-1cff-4781-81cd-651bd7594872/Untitled.png)
+
+## List
+
+- We can also represent List in YAML .
     ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f7830354-6125-4e3f-8ae7-14a8ef04f9c6/dfdbc90c-e97b-4a12-a172-ed7bd9ea789a/Untitled.png)
     
     https://bobbyhadz.com/blog/open-file-in-new-window-vscode#always-open-files-in-a-new-tab-in-vs-code
