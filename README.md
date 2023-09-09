@@ -36,6 +36,15 @@
 
 12. create your own lab and have fun
 
+    ## Always open files in a New Tab in VS Code
+
+1. Press `Ctrl` + `Shift` + `P`
+2. Type **user settings** and select **Preferences: Open User Settings**
+3. Type **workbench enable preview** and uncheck the checkbox of the **Workbench > Editor: Enable Preview** setting
+4. Once you uncheck the checkbox, you will always open files in a new tab with a single left-click
     
+    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f7830354-6125-4e3f-8ae7-14a8ef04f9c6/dfdbc90c-e97b-4a12-a172-ed7bd9ea789a/Untitled.png)
+    
+    https://bobbyhadz.com/blog/open-file-in-new-window-vscode#always-open-files-in-a-new-tab-in-vs-code
 
 
