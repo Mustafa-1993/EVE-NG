@@ -35,49 +35,20 @@
     - https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
 12. create your own lab and have fun
-# YAML
 
-- **Y**et **A**nother **M**arkup **L**anguage
-- YAML it is very easy for humans to understand, read and write when compared to other data formats like XML and JSON.
-- Extension is “yaml” or “yml”
-- Use this website to validate the yaml code —> https://www.yamllint.com/
 
-<aside>
-💡 The indention spaces number is up to you (the standard add 2 spaces) but must be identical
+```python
+from datetime import datetime
+import traceback
 
-</aside>
+try:
+	 pass
 
-<aside>
-💡 Every YAML file **optionally (May or May not)** starts with `---`  and ends with `...`    (Focus on space after each one of them)
-
-</aside>
-
-## key-value
-
-- YAML uses simple **key-value** pairs to represent the data (Just like dictionary) , There should be space between`:` and value.
-
-```yaml
---- # Optional YAML start syntax 
-
-james:              **# Dict in Dict** 
-		name: james john 
-		rollNo: 34 
-		div: B 
-		sex: male
-
-Mustafa: 22.55
-
-Rami: true  # Boolean
-
-... # Optional YAML end syntax
+except :  
+	print( datetime.now() , traceback.format_exc() )
 ```
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f7830354-6125-4e3f-8ae7-14a8ef04f9c6/7a4f445f-1cff-4781-81cd-651bd7594872/Untitled.png)
-
-## List
-
-- We can also represent List in YAML .
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f7830354-6125-4e3f-8ae7-14a8ef04f9c6/dfdbc90c-e97b-4a12-a172-ed7bd9ea789a/Untitled.png)
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f7830354-6125-4e3f-8ae7-14a8ef04f9c6/e16f2cf7-73cc-4631-aa54-e0662298e081/Untitled.png)
     
     https://bobbyhadz.com/blog/open-file-in-new-window-vscode#always-open-files-in-a-new-tab-in-vs-code
 
