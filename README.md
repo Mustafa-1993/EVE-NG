@@ -34,7 +34,7 @@
 11. Download and install Putty (depend on your system x86 or 64) to enter SSH to device :
     - https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
-12. create your own lab and have fun
+12. Create your own lab and have fun
 
 
 
