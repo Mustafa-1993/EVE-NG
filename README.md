@@ -38,8 +38,5 @@
 
 
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f7830354-6125-4e3f-8ae7-14a8ef04f9c6/e16f2cf7-73cc-4631-aa54-e0662298e081/Untitled.png)
-    
-    https://bobbyhadz.com/blog/open-file-in-new-window-vscode#always-open-files-in-a-new-tab-in-vs-code
 
 
