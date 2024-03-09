@@ -8,7 +8,7 @@
 
 ##### Images:
 # IOL L2 and L3
-# Vios L2 and L3
+# vIOS L2 and L3
 # CSRv1000
 # XRV
 
