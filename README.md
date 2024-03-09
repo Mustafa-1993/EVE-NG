@@ -9,7 +9,7 @@
 ##### Images:
 IOL L2 and L3
 Vios L2 and L3
-CSR
+CSRv1000
 XRV
 
 #### Instructions : 
