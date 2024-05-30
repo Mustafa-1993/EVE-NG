@@ -14,7 +14,7 @@
 
 #### Instructions : 
 1. Open Download.txt file to download the rar file from my google drive
-   - https://drive.google.com/drive/folders/14KHmDJvKycaheBOxyiUGITxyGnESG7EV?usp=sharing
+   - https://drive.google.com/drive/folders/14KHmDJvKycaheBOxyiUGITxyGnESG7EV?usp=drive_link
 
 2. Unzip the file
  
