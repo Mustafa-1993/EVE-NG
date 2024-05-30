@@ -21,7 +21,7 @@
 3. Download and install the vmware player workstation from
    - https://customerconnect.vmware.com/en/downloads/info/slug/desktop_end_user_computing/vmware_workstation_player/17_0
 
-4. Open Vmware player , go to File , go to OPEN , Select the OVA file (from the Extracted file you downloaded ) in to the Vmware player
+4. Open Vmware player , go to File , go to OPEN , Select the 'EVE' file (from the Extracted file you downloaded ) in to the Vmware player
 
 5. Choose "Edit virtual machine settings"
 
